@@ -1,0 +1,13 @@
+/target/
+/theme/
+/.settings/
+/META-INF/
+/OSGI-INF/
+/images/
+.classpath
+.project
+plugin.properties
+plugin.xml
+build.properties
+release.properties 
+pom.xml.releaseBackup
